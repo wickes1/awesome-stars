@@ -827,6 +827,7 @@
 
 ## Rust 
 
+- [anshulrgoyal/rust-web-developer-roadmap](https://github.com/anshulrgoyal/rust-web-developer-roadmap) - Roadmap to becoming a Rust Web Developer in 2022
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer
 - [jD91mZM2/xidlehook](https://github.com/jD91mZM2/xidlehook) - GitLab: https://gitlab.com/jD91mZM2/xidlehook
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
