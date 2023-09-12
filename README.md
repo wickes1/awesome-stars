@@ -526,7 +526,6 @@
 
 ## Lua 
 
-- [Kasper24/KwesomeDE](https://github.com/Kasper24/KwesomeDE) - A desktop environment made in AwesomeWM
 - [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
 - [streetturtle/awesome-wm-widgets](https://github.com/streetturtle/awesome-wm-widgets) - Widgets for Awesome Window Manager
 - [abzcoding/lvim](https://github.com/abzcoding/lvim) - 🧑‍🚀 Bloated LunarVim 🚀
