@@ -447,6 +447,7 @@
 
 ## JavaScript 
 
+- [OpenDroneMap/WebODM](https://github.com/OpenDroneMap/WebODM) - User-friendly, commercial-grade software for processing aerial imagery. 🛩
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [Kong/mockbin](https://github.com/Kong/mockbin) - Mock, Test & Track HTTP Requests and Response for Microservices
 - [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) - Control and manage Android devices from your browser.
@@ -607,6 +608,7 @@
 
 ## PHP 
 
+- [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
 - [LinkStackOrg/LinkStack](https://github.com/LinkStackOrg/LinkStack) - LinkStack - the ultimate solution for creating a personalized & professional profile page. Showcase all your important links in one place, forget the limitation of one link on social media. Set up you
 - [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) - Nextcloud AIO stands for Nextcloud All-in-One and provides easy deployment and maintenance with most features included in this one Nextcloud instance.
 - [snipe/snipe-it](https://github.com/snipe/snipe-it) - A free open source IT asset/license management system
@@ -827,6 +829,7 @@
 
 ## Rust 
 
+- [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) - A git prepare-commit-msg hook for authoring commit messages with GPT-3.
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends
 - [anshulrgoyal/rust-web-developer-roadmap](https://github.com/anshulrgoyal/rust-web-developer-roadmap) - Roadmap to becoming a Rust Web Developer in 2022
 - [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer
@@ -918,6 +921,8 @@
 
 ## TypeScript 
 
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
+- [rishavanand/github-profilinator](https://github.com/rishavanand/github-profilinator) - 🚀  This tool contains mini GUI components that you can hook together to automatically generate markdown code for a perfect readme.
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [xitanggg/open-resume](https://github.com/xitanggg/open-resume) - OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
