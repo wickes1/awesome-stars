@@ -514,6 +514,7 @@
 
 ## Jupyter Notebook 
 
+- [explodinggradients/ragas](https://github.com/explodinggradients/ragas) - Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines
 - [quiltdata/quilt](https://github.com/quiltdata/quilt) - Quilt is a data mesh for connecting people with actionable data
 - [Baiyuetribe/paper2gui](https://github.com/Baiyuetribe/paper2gui) - Convert AI papers to GUI，Make it easy and convenient for everyone to use artificial intelligence technology。让每个人都简单方便的使用前沿人工智能技术
 - [DataTalksClub/mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) - Free MLOps course from DataTalks.Club
@@ -676,7 +677,7 @@
 - [edgedb/edgedb](https://github.com/edgedb/edgedb) - A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Reverse engineered ChatGPT API
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
-- [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a data framework for your LLM applications
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (GPT Index) is a data framework for your LLM applications
 - [tethysplatform/tethys](https://github.com/tethysplatform/tethys) - The Tethys Platform main Django website project repository.
 - [OpenDroneMap/ODM](https://github.com/OpenDroneMap/ODM) - A command line toolkit to generate maps, point clouds, 3D models and DEMs from drone, balloon or kite images. 📷
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -940,7 +941,7 @@
 - [automatisch/automatisch](https://github.com/automatisch/automatisch) - The open source Zapier alternative. Build workflow automation without spending time and money.
 - [JDFED/drip-table](https://github.com/JDFED/drip-table) - A tiny and powerful enterprise-class solution for building lowcode tables. 轻量、强大的企业级表格可视化搭建解决方案。
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
+- [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [TexteaInc/json-viewer](https://github.com/TexteaInc/json-viewer) - not only a JSON viewer
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
