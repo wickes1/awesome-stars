@@ -227,7 +227,7 @@
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an in-process SQL OLAP Database Management System
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [dbt-labs/dbt-core](https://github.com/dbt-labs/dbt-core) - dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.
-- [infinyon/fluvio](https://github.com/infinyon/fluvio) - Kafka + Flink in Rust + WASM. Cloud Native, Edge Ready, Stateful, Composable unified data streaming platform powered by Rust and Web Assembly
+- [infinyon/fluvio](https://github.com/infinyon/fluvio) - Kafka + Flink in Rust + WASM. Cloud Native, Edge Ready, Stateful, Composable unified data streaming platform powered by Rust and Web Assembly.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [matomo-org/matomo](https://github.com/matomo-org/matomo) - Liberating Web Analytics. Star us on Github? +1. Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from website
@@ -774,7 +774,7 @@
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner with web GUI
 - [lavie/runlike](https://github.com/lavie/runlike) - Given an existing docker container, prints the command line necessary to run a copy of it.
-- [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes.
 - [crawlab-team/crawlab](https://github.com/crawlab-team/crawlab) - Distributed web crawler admin platform for spiders management regardless of languages and frameworks. 分布式爬虫管理平台，支持任何语言和框架
 - [ddosify/ddosify](https://github.com/ddosify/ddosify) - "Canva" of K8s Observability. Available on CLI, Self-Hosted, and Cloud - https://ddosify.com 🚀
@@ -1205,6 +1205,7 @@
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
+- [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) - Control and manage Android devices from your browser.
 - [tiny-pilot/tinypilot](https://github.com/tiny-pilot/tinypilot) - Use your Raspberry Pi as a browser-based KVM.
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) - Creates diagrams from textual descriptions!
@@ -1220,6 +1221,7 @@
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸 Web apps in pure Python 🐍
 - [geosolutions-it/MapStore2](https://github.com/geosolutions-it/MapStore2) - Modern webmapping with OpenLayers, Leaflet, Cesium and React
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
+- [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
 - [geopython/pygeoapi](https://github.com/geopython/pygeoapi) - pygeoapi is a Python server implementation of the OGC API suite of standards. The project emerged as part of the next generation OGC API efforts in 2018 and provides the capability for organizations t
 - [vmware-tanzu/velero](https://github.com/vmware-tanzu/velero) - Backup and migrate Kubernetes applications and their persistent volumes
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
@@ -1309,6 +1311,7 @@
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [yezz123/authx](https://github.com/yezz123/authx) - Ready-to-use and customizable Authentications and Oauth2 management for FastAPI ✨
 - [bojand/ghz](https://github.com/bojand/ghz) - Simple gRPC benchmarking and load testing tool
 - [anchore/grype](https://github.com/anchore/grype) - A vulnerability scanner for container images and filesystems
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
@@ -1811,7 +1814,7 @@
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks.
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-- [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 
 ## nlp 
@@ -1829,7 +1832,7 @@
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
-- [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and m
@@ -2390,7 +2393,7 @@
 - [zuiidea/antd-admin](https://github.com/zuiidea/antd-admin) - An excellent front-end solution for enterprise applications built upon Ant Design and UmiJS
 - [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
@@ -2477,7 +2480,7 @@
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your Internet traffic 🕵️‍♂️
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
-- [infinyon/fluvio](https://github.com/infinyon/fluvio) - Kafka + Flink in Rust + WASM. Cloud Native, Edge Ready, Stateful, Composable unified data streaming platform powered by Rust and Web Assembly
+- [infinyon/fluvio](https://github.com/infinyon/fluvio) - Kafka + Flink in Rust + WASM. Cloud Native, Edge Ready, Stateful, Composable unified data streaming platform powered by Rust and Web Assembly.
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
 - [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
@@ -2548,7 +2551,7 @@
 - [gravitl/netmaker](https://github.com/gravitl/netmaker) - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
 - [gotify/server](https://github.com/gotify/server) - A simple server for sending and receiving messages in real-time per WebSocket. (Includes a sleek web-ui)
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner with web GUI
-- [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [sergix44/XBackBone](https://github.com/sergix44/XBackBone) - A lightweight file manager with full ShareX support and more
 - [dromara/hertzbeat](https://github.com/dromara/hertzbeat) - An open source, real-time monitoring system with custom-monitoring, high performance cluster and agentless.  Support monitoring web, database, os, middleware, cloudnative, network and more.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
@@ -2586,7 +2589,7 @@
 - [OpenFunction/OpenFunction](https://github.com/OpenFunction/OpenFunction) - Cloud Native Function-as-a-Service Platform (CNCF Sandbox Project)
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
 - [cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification
-- [infinyon/fluvio](https://github.com/infinyon/fluvio) - Kafka + Flink in Rust + WASM. Cloud Native, Edge Ready, Stateful, Composable unified data streaming platform powered by Rust and Web Assembly
+- [infinyon/fluvio](https://github.com/infinyon/fluvio) - Kafka + Flink in Rust + WASM. Cloud Native, Edge Ready, Stateful, Composable unified data streaming platform powered by Rust and Web Assembly.
 - [direktiv/direktiv](https://github.com/direktiv/direktiv) - Serverless Container Orchestration
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.
