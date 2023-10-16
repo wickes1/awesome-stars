@@ -1974,7 +1974,7 @@
 - [ac5tin/stresser](https://github.com/ac5tin/stresser) - Minimalistic stress testing tool
 - [omnigres/omnigres](https://github.com/omnigres/omnigres) - Postgres as a Platform
 - [apache/incubator-paimon](https://github.com/apache/incubator-paimon) - Apache Paimon(incubating) is a streaming data lake platform that supports high-speed data ingestion, change data tracking and efficient real-time analytics.
-- [getcursor/cursor](https://github.com/getcursor/cursor) - An editor made for programming with AI 🤖
+- [getcursor/cursor](https://github.com/getcursor/cursor) - An AI-powered code editor based on VSCode 🤖
 - [wee-slack/wee-slack](https://github.com/wee-slack/wee-slack) - A WeeChat script for Slack.com. Supports threads and reactions, synchronizes read markers, provides typing notification, etc..
 - [koute/bytehound](https://github.com/koute/bytehound) - A memory profiler for Linux.
 - [v6d-io/v6d](https://github.com/v6d-io/v6d) - vineyard (v6d): an in-memory immutable data manager. (Project under CNCF, TAG-Storage)
