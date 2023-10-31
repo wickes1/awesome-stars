@@ -167,6 +167,7 @@
 - [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability
 - [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
 - [ac5tin/stresser](https://github.com/ac5tin/stresser) - Minimalistic stress testing tool
+- [flux-subsystem-argo/flamingo](https://github.com/flux-subsystem-argo/flamingo) - Flux Subsystem for Argo
 - [quarkcms/quark-go](https://github.com/quarkcms/quark-go) - 兼容 Echo & Gin & GoFiber & GoZero & Hertz  + Ant Design Pro 前后端分离的管理后台，Build Anything With QuarkGo
 - [united-manufacturing-hub/united-manufacturing-hub](https://github.com/united-manufacturing-hub/united-manufacturing-hub) - The Open-Source toolkit to build your own reliable and secure Industrial IoT platform.
 - [dagger/dagger](https://github.com/dagger/dagger) - Dagger is an integrated platform to orchestrate the delivery of applications
@@ -582,7 +583,6 @@
 - [DavidS95/Smokeless_UMAF](https://github.com/DavidS95/Smokeless_UMAF) - 
 - [AlanFinotty/AAFOptimusDCHAudio-Realtek](https://github.com/AlanFinotty/AAFOptimusDCHAudio-Realtek) - OFFICIAL Repository for "AAF DCH Optimus Audio" Mods - Based in Realtek Driver
 - [meirwah/awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of awesome open source workflow engines
-- [flux-subsystem-argo/flamingo](https://github.com/flux-subsystem-argo/flamingo) - Flux Subsystem for Argo - Landing Repository
 - [getcursor/cursor](https://github.com/getcursor/cursor) - An AI-powered code editor based on VSCode 🤖
 - [pikvm/pikvm](https://github.com/pikvm/pikvm) - Open and inexpensive DIY IP-KVM based on Raspberry Pi
 - [xiaolai/time-as-a-friend](https://github.com/xiaolai/time-as-a-friend) - 《把时间当作朋友》
