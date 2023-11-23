@@ -156,6 +156,7 @@
 
 ## Go 
 
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
 - [weaviate/weaviate](https://github.com/weaviate/weaviate) - Weaviate is an open source vector database that stores both objects and vectors, allowing for combining vector search with structured filtering with the fault-tolerance and scalability of a cloud-nati
@@ -659,6 +660,7 @@
 
 ## Python 
 
+- [TonyCrane/mkdocs-changelog-plugin](https://github.com/TonyCrane/mkdocs-changelog-plugin) - A MkDocs plugin that create changelog in a page
 - [smarie/mkdocs-gallery](https://github.com/smarie/mkdocs-gallery) - Same features as sphinx-gallery (https://sphinx-gallery.github.io/) but on mkdocs (https://www.mkdocs.org/) (no sphinx dependency !).
 - [mkdocs-plugins/termynal](https://github.com/mkdocs-plugins/termynal) - Python markdown terminal. Built for mkdocs
 - [mkdocs/catalog](https://github.com/mkdocs/catalog) - :trophy: :books: A list of awesome MkDocs projects and plugins.
