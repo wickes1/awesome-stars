@@ -2188,7 +2188,7 @@
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [reprise99/Sentinel-Queries](https://github.com/reprise99/Sentinel-Queries) - Collection of KQL queries
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
-- [ironicbadger/infra](https://github.com/ironicbadger/infra) - 99.9% less leaked credentials
+- [ironicbadger/infra](https://github.com/ironicbadger/infra) - 99.8% less leaked credentials
 - [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [sergiomarotco/Network-segmentation-cheat-sheet](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet) - Best practices for segmentation of the corporate network of any company
 - [samuelcolvin/arq](https://github.com/samuelcolvin/arq) - Fast job queuing and RPC in python with asyncio and redis.
