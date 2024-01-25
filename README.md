@@ -590,7 +590,7 @@
 - [Project-PLATEAU/Data-Conversion-Manual-for-3D-City-Model](https://github.com/Project-PLATEAU/Data-Conversion-Manual-for-3D-City-Model) - 3D都市モデル（CityGML形式）からFBX/OBJ/Datasmith/IFC形式へ変換のためのFME Desktopのワークスペース
 - [dgryski/awesome-go-style](https://github.com/dgryski/awesome-go-style) - A collection of Go style guides
 - [ac5tin/clinotes](https://github.com/ac5tin/clinotes) - useful commands
-- [openebs/openebs](https://github.com/openebs/openebs) - Leading Open Source Container Attached Storage, built using Cloud Native Architecture, simplifies running Stateful Applications on Kubernetes.
+- [openebs/openebs](https://github.com/openebs/openebs) - Most popular & widely deployed Open Source Container Native Storage platform for Stateful Persistent Applications on Kubernetes.
 - [techiescamp/kubernetes-learning-path](https://github.com/techiescamp/kubernetes-learning-path) - A roadmap to learn Kubernetes from scratch (Beginner to Advanced level)
 - [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing on linux
 - [InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources) - These are the best resources for System Design on the Internet
