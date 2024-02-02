@@ -1000,7 +1000,7 @@
 - [Baizey/UniversalAutomaticCurrencyConverter](https://github.com/Baizey/UniversalAutomaticCurrencyConverter) - A currency converter for chrome and firefox which supports a large amount of currencies and can automatically convert websites
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
 - [hashicorp/terraform-cdk](https://github.com/hashicorp/terraform-cdk) - Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas app and SDK
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas.
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
 - [msiric/feasible-route-mapping](https://github.com/msiric/feasible-route-mapping) - Algorithm capable of finding all the areas that a person could have reached while en route between locations in a defined period, taking into account time and mode of transportation constraints.
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
