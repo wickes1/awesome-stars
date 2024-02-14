@@ -578,7 +578,7 @@
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
 - [cloudpanel-io/cloudpanel-ce](https://github.com/cloudpanel-io/cloudpanel-ce) - 
-- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
+- [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok/Cloudflare Tunnel alternatives and other tunneling software and services. Focus on self-hosting.
 - [DavidS95/Smokeless_UMAF](https://github.com/DavidS95/Smokeless_UMAF) - 
 - [AlanFinotty/AAFOptimusDCHAudio-Realtek](https://github.com/AlanFinotty/AAFOptimusDCHAudio-Realtek) - OFFICIAL Repository for "AAF DCH Optimus Audio" Mods - Based in Realtek Driver
 - [meirwah/awesome-workflow-engines](https://github.com/meirwah/awesome-workflow-engines) - A curated list of awesome open source workflow engines
@@ -819,7 +819,7 @@
 - [nat-n/poethepoet](https://github.com/nat-n/poethepoet) - A task runner that works well with poetry.
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - Build AI 🤖 using SQL
+- [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The middleware for building custom AI, enabling smarter organizations.
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [LuisLuii/FastAPIQuickCRUD](https://github.com/LuisLuii/FastAPIQuickCRUD) - Generate CRUD methods in FastApi from an SQLAlchemy schema
 - [s3rius/FastAPI-template](https://github.com/s3rius/FastAPI-template) - Feature rich robust FastAPI template.
