@@ -1685,7 +1685,7 @@
 
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [Fadi002/unshackle](https://github.com/Fadi002/unshackle) - Open-source tool to bypass windows and linux passwords from bootable usb
-- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
+- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland (sort of), and other things, too
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [Lissy93/portainer-templates](https://github.com/Lissy93/portainer-templates) - 🚢 500+ 1-click Portainer app templates
 - [freeipa/freeipa](https://github.com/freeipa/freeipa) - Mirror of FreeIPA, an integrated security information management solution
@@ -1752,7 +1752,7 @@
 ## lua 
 
 - [nanotee/nvim-lua-guide](https://github.com/nanotee/nvim-lua-guide) - A guide to using Lua in Neovim
-- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
+- [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland (sort of), and other things, too
 - [abzcoding/lvim](https://github.com/abzcoding/lvim) - 🧑‍🚀 Bloated LunarVim 🚀
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
 - [lcpz/awesome-copycats](https://github.com/lcpz/awesome-copycats) - Awesome WM themes
