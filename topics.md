@@ -2122,7 +2122,6 @@
 - [ITachiLab/hotkey-detective](https://github.com/ITachiLab/hotkey-detective) - A small program for investigating stolen hotkeys under Windows 8+
 - [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
 - [DavidS95/Smokeless_UMAF](https://github.com/DavidS95/Smokeless_UMAF) - 
-- [AlanFinotty/AAFOptimusDCHAudio-Realtek](https://github.com/AlanFinotty/AAFOptimusDCHAudio-Realtek) - OFFICIAL Repository for "AAF DCH Optimus Audio" Mods - Based in Realtek Driver
 - [Kasper24/KwesomeDE](https://github.com/Kasper24/KwesomeDE) - A desktop environment made in AwesomeWM
 - [darekkay/static-marks](https://github.com/darekkay/static-marks) - Shareable bookmarks
 - [aerokube/selenoid-ui](https://github.com/aerokube/selenoid-ui) - Graphical user interface for Selenoid project
@@ -2134,7 +2133,7 @@
 - [ac5tin/stresser](https://github.com/ac5tin/stresser) - Minimalistic stress testing tool
 - [omnigres/omnigres](https://github.com/omnigres/omnigres) - Postgres as a Platform
 - [apache/paimon](https://github.com/apache/paimon) - Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.
-- [getcursor/cursor](https://github.com/getcursor/cursor) - An AI-powered code editor based on VSCode 🤖
+- [getcursor/cursor](https://github.com/getcursor/cursor) - The AI-powered code editor
 - [wee-slack/wee-slack](https://github.com/wee-slack/wee-slack) - A WeeChat script for Slack.com. Supports threads and reactions, synchronizes read markers, provides typing notification, etc..
 - [koute/bytehound](https://github.com/koute/bytehound) - A memory profiler for Linux.
 - [v6d-io/v6d](https://github.com/v6d-io/v6d) - vineyard (v6d): an in-memory immutable data manager. (Project under CNCF, TAG-Storage)
