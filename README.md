@@ -668,6 +668,7 @@
 
 ## Python 
 
+- [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
 - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer 是广受欢迎的开源堡垒机，是符合 4A 规范的专业运维安全审计系统。
 - [g1879/DrissionPage](https://github.com/g1879/DrissionPage) - 基于python的网页自动化工具。既能控制浏览器，也能收发数据包。可兼顾浏览器自动化的便利性和requests的高效率。功能强大，内置无数人性化设计和便捷功能。语法简洁而优雅，代码量少。
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
