@@ -223,6 +223,7 @@
 
 ## ai 
 
+- [dabit3/react-native-ai](https://github.com/dabit3/react-native-ai) - Full stack framework for building cross-platform mobile AI apps
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Bedrock / Azure / Mistral / Perplexity ), Multi-Modals (Vision/TT
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
@@ -931,6 +932,7 @@
 
 ## express 
 
+- [dabit3/react-native-ai](https://github.com/dabit3/react-native-ai) - Full stack framework for building cross-platform mobile AI apps
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2024)
@@ -2626,6 +2628,7 @@
 
 ## react 
 
+- [dabit3/react-native-ai](https://github.com/dabit3/react-native-ai) - Full stack framework for building cross-platform mobile AI apps
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.
@@ -2667,6 +2670,7 @@
 
 ## react-native 
 
+- [dabit3/react-native-ai](https://github.com/dabit3/react-native-ai) - Full stack framework for building cross-platform mobile AI apps
 - [infinitered/ignite](https://github.com/infinitered/ignite) - Infinite Red's battle-tested React Native project boilerplate, along with a CLI, component/model generators, and more!
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
