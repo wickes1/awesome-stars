@@ -2115,6 +2115,7 @@
 
 ## others 
 
+- [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
 - [oiov/vmail](https://github.com/oiov/vmail) - 📫 An open source temporary email tool. 只需一个域名部署临时邮箱，支持收发邮件，多域名邮箱配置，密码找回。
 - [Innei/Shiro](https://github.com/Innei/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
 - [Pjaijai/Referalah](https://github.com/Pjaijai/Referalah) - Referalah
@@ -2253,7 +2254,6 @@
 - [openstack/openstack](https://github.com/openstack/openstack) - Repository tracking all OpenStack repositories as submodules. Mirror of code maintained at opendev.org.
 - [joolfe/postman-to-openapi](https://github.com/joolfe/postman-to-openapi) - 🛸 Convert postman collection to OpenAPI
 - [Hubro/clipface](https://github.com/Hubro/clipface) - Self-hosted web application for sharing video clips
-- [rodber/chevereto-free](https://github.com/rodber/chevereto-free) - Go to chevereto/chevereto for new Chevereto releases. This is the repo for the old "Chevereto-Free" (Self-hosted Image Hosting solution, your own Flickr/imgur alternative with your rules).
 - [anyant/rssant](https://github.com/anyant/rssant) - 蚁阅 - 让 RSS 更好用，轻松订阅你喜欢的博客和资讯
 - [laixintao/iredis](https://github.com/laixintao/iredis) - Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
 - [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
@@ -2831,6 +2831,7 @@
 - [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN) - Lightweight network IP scanner with web GUI
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [sergix44/XBackBone](https://github.com/sergix44/XBackBone) - A lightweight file manager with full ShareX support and more
+- [rodber/chevereto-free](https://github.com/rodber/chevereto-free) - Go to chevereto/chevereto for new Chevereto releases. This is the repo for the old "Chevereto-Free" (Self-hosted Image Hosting solution, your own Flickr/imgur alternative with your rules).
 - [apache/hertzbeat](https://github.com/apache/hertzbeat) - Apache HertzBeat(incubating) is a real-time monitoring system with agentless, performance cluster, prometheus-compatible, custom monitoring and status page building capabilities.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic
