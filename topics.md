@@ -317,7 +317,7 @@
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [YaoApp/yao](https://github.com/YaoApp/yao) - :rocket: A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [teamhide/fastapi-boilerplate](https://github.com/teamhide/fastapi-boilerplate) - FastAPI boilerplate for real world production
 - [awtkns/fastapi-crudrouter](https://github.com/awtkns/fastapi-crudrouter) - A dynamic FastAPI router that automatically creates CRUD routes for your models
 
@@ -1293,7 +1293,7 @@
 - [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 - [glideapps/quicktype](https://github.com/glideapps/quicktype) - Generate types and converters from JSON, Schema, and GraphQL
 - [s3rius/FastAPI-template](https://github.com/s3rius/FastAPI-template) - Feature rich robust FastAPI template.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative.
 
 ## hacking 
@@ -1431,7 +1431,7 @@
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [element-hq/element-web](https://github.com/element-hq/element-web) - A glossy Matrix collaboration client for the web.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [yezz123/authx](https://github.com/yezz123/authx) - Ready-to-use and customizable Authentications and Oauth2 management for FastAPI ✨
 - [bojand/ghz](https://github.com/bojand/ghz) - Simple gRPC benchmarking and load testing tool
@@ -1482,7 +1482,7 @@
 - [crossoverJie/ptg](https://github.com/crossoverJie/ptg) - 💥Performance testing tool (Go), It is also a GUI gRPC client.
 - [antoniomika/sish](https://github.com/antoniomika/sish) - HTTP(S)/WS(S)/TCP Tunnels to localhost using only SSH.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 
 ## image-processing 
 
@@ -2473,7 +2473,7 @@
 ## pwa 
 
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 
 ## python 
 
@@ -2729,7 +2729,7 @@
 - [swagger-api/swagger-codegen](https://github.com/swagger-api/swagger-codegen) - swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [confluentinc/kafka-rest](https://github.com/confluentinc/kafka-rest) - Confluent REST Proxy for Kafka
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 
 ## reverse-engineering 
 
@@ -3076,7 +3076,7 @@
 - [metersphere/metersphere](https://github.com/metersphere/metersphere) - MeterSphere 一站式开源持续测试平台，为软件质量保驾护航。搞测试，就选 MeterSphere！
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2024)
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 
 ## twitter 
@@ -3166,7 +3166,7 @@
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [purocean/yn](https://github.com/purocean/yn) - A highly extensible Markdown editor. Version control, AI Copilot, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and macr
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [alibaba/formily](https://github.com/alibaba/formily) - 📱🚀 🧩 Cross Device & High Performance Normal Form/Dynamic(JSON Schema) Form/Form Builder -- Support React/React Native/Vue 2/Vue 3
 
 ## vuejs 
@@ -3179,7 +3179,7 @@
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬  ‎ Modern, responsive, cross-platform, self-hosted web IRC client
 - [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
 
 ## web 
