@@ -987,6 +987,7 @@
 
 ## TypeScript 
 
+- [TypeDuck-HK/TypeDuck-Web](https://github.com/TypeDuck-HK/TypeDuck-Web) - TypeDuck: Cantonese for everyone at your fingertips
 - [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 - [getstation/desktop-app](https://github.com/getstation/desktop-app) - One app to rule them all!
 - [oiov/vmail](https://github.com/oiov/vmail) - 📫 An open source temporary email tool. 只需一个域名部署临时邮箱，支持收发邮件，多域名邮箱配置，密码找回。
