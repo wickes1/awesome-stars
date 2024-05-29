@@ -2132,6 +2132,7 @@
 
 ## others 
 
+- [TypeDuck-HK/TypeDuck-Web](https://github.com/TypeDuck-HK/TypeDuck-Web) - TypeDuck: Cantonese for everyone at your fingertips
 - [pijulius/picom](https://github.com/pijulius/picom) - A lightweight compositor for X11
 - [Amitabha37377/Awful-DOTS](https://github.com/Amitabha37377/Awful-DOTS) - 
 - [SAWARATSUKI/KawaiiLogos](https://github.com/SAWARATSUKI/KawaiiLogos) - 
