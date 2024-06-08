@@ -2135,6 +2135,7 @@
 
 ## others 
 
+- [Aylur/ags](https://github.com/Aylur/ags) - A customizable and extensible shell
 - [Maato/volumeicon](https://github.com/Maato/volumeicon) - Volume Icon aims to be a lightweight volume control that sits in your systray.
 - [nwg-piotr/nwg-look](https://github.com/nwg-piotr/nwg-look) - GTK3 settings editor adapted to work in the wlroots environment
 - [Duckonaut/split-monitor-workspaces](https://github.com/Duckonaut/split-monitor-workspaces) - A small Hyprland plugin to provide awesome-like workspace behavior
