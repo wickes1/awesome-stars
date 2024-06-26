@@ -149,7 +149,7 @@
 
 - [Mobile-Artificial-Intelligence/maid](https://github.com/Mobile-Artificial-Intelligence/maid) - Maid is a cross-platform Flutter app for interfacing with GGUF / llama.cpp models locally, and with Ollama and OpenAI models remotely.
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 
 ## Dockerfile 
@@ -706,7 +706,7 @@
 - [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 - [jxnl/instructor](https://github.com/jxnl/instructor) - structured outputs for llms
-- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - An open-source PAM tool and alternative to CyberArk.         广受欢迎的开源堡垒机。
+- [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - An open-source PAM tool alternative to CyberArk.  广受欢迎的开源堡垒机。
 - [g1879/DrissionPage](https://github.com/g1879/DrissionPage) - 基于python的网页自动化工具。既能控制浏览器，也能收发数据包。可兼顾浏览器自动化的便利性和requests的高效率。功能强大，内置无数人性化设计和便捷功能。语法简洁而优雅，代码量少。
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [airbytehq/airbyte](https://github.com/airbytehq/airbyte) - The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted.
