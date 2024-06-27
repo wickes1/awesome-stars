@@ -1299,6 +1299,7 @@
 
 ## good-first-issue 
 
+- [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your LLM application, based on OpenTelemetry
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [mockoon/mockoon](https://github.com/mockoon/mockoon) - Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.
@@ -1811,6 +1812,7 @@
 
 ## llm 
 
+- [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your LLM application, based on OpenTelemetry
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
 - [dabit3/react-native-ai](https://github.com/dabit3/react-native-ai) - Full stack framework for building cross-platform mobile AI apps
@@ -1958,6 +1960,7 @@
 
 ## monitoring 
 
+- [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your LLM application, based on OpenTelemetry
 - [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic & real user monitoring platform  🏓
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
@@ -2134,6 +2137,7 @@
 
 ## open-source 
 
+- [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your LLM application, based on OpenTelemetry
 - [openstatusHQ/openstatus](https://github.com/openstatusHQ/openstatus) - 🏓  The open-source synthetic & real user monitoring platform  🏓
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.
 - [tailwarden/komiser](https://github.com/tailwarden/komiser) - Open-source cloud-environment inspector. Supporting AWS, GCP, Azure, and more! Your cloud resources will have nowhere to hide!
@@ -2537,6 +2541,7 @@
 
 ## python 
 
+- [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your LLM application, based on OpenTelemetry
 - [networkx/networkx](https://github.com/networkx/networkx) - Network Analysis in Python
 - [keephq/keep](https://github.com/keephq/keep) - The open-source alert management and AIOps platform
 - [2noise/ChatTTS](https://github.com/2noise/ChatTTS) - A generative speech model for daily dialogue.
