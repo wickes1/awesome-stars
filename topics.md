@@ -227,6 +227,7 @@
 
 ## ai 
 
+- [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: open-source AI-powered Software Developer for small features and bug fixes.
 - [dabit3/react-native-ai](https://github.com/dabit3/react-native-ai) - Full stack framework for building cross-platform mobile AI apps
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app starter for React & Node.js with superpowers. Production-ready. Community-driven.
@@ -1112,7 +1113,6 @@
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3, Mistral, Gemma 2, and other large language models.
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
-- [quarkcloudio/quark-go](https://github.com/quarkcloudio/quark-go) - 兼容 Echo & Gin & GoFiber & GoZero & Hertz & Kratos  + Ant Design Pro 前后端分离的管理后台，Build Anything With Quark
 - [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [casbin/casbin](https://github.com/casbin/casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
@@ -1206,7 +1206,6 @@
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, and most secure way to access and protect all of your infrastructure.
 - [amir20/dozzle](https://github.com/amir20/dozzle) - Realtime log viewer for docker containers.
 - [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) - A Chaos Engineering Platform for Kubernetes.
-- [quarkcloudio/quark-go](https://github.com/quarkcloudio/quark-go) - 兼容 Echo & Gin & GoFiber & GoZero & Hertz & Kratos  + Ant Design Pro 前后端分离的管理后台，Build Anything With Quark
 - [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.
@@ -2184,6 +2183,7 @@
 
 ## others 
 
+- [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation
 - [mageddo/dns-proxy-server](https://github.com/mageddo/dns-proxy-server) - Solve your DNS hosts from your docker containers, then from your local configuration, then from internet
 - [Zipstack/unstract](https://github.com/Zipstack/unstract) - No-code LLM Platform to launch APIs and ETL Pipelines to structure unstructured documents
 - [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
@@ -2267,6 +2267,7 @@
 - [v6d-io/v6d](https://github.com/v6d-io/v6d) - vineyard (v6d): an in-memory immutable data manager. (Project under CNCF, TAG-Storage)
 - [anvil-works/anvil-runtime](https://github.com/anvil-works/anvil-runtime) - The runtime engine for hosting Anvil web apps
 - [kartoza/docker-geoserver](https://github.com/kartoza/docker-geoserver) - A docker recipe for GeoServer
+- [quarkcloudio/quark-go](https://github.com/quarkcloudio/quark-go) - 兼容 Echo & Gin & GoFiber & GoZero & Hertz & Kratos  + Ant Design Pro 前后端分离的管理后台，Build Anything With Quark
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [tethysplatform/tethys](https://github.com/tethysplatform/tethys) - The Tethys Platform main Django website project repository.
 - [supabase/pg_jsonschema](https://github.com/supabase/pg_jsonschema) - PostgreSQL extension providing JSON Schema validation
