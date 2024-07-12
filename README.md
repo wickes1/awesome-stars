@@ -582,6 +582,7 @@
 
 ## Lua 
 
+- [pablonoya/awesomewm-configuration](https://github.com/pablonoya/awesomewm-configuration) - My personal AwesomeWM configuration
 - [andOrlando/rubato](https://github.com/andOrlando/rubato) - Create smooth animations with a slope curve for awesomeWM
 - [raven2cz/awesomewm-config](https://github.com/raven2cz/awesomewm-config) - RAVEN2CZ: AwesomeWM Configuration, Libraries and Themes.
 - [BlingCorp/bling](https://github.com/BlingCorp/bling) - Utilities for the awesome window manager
