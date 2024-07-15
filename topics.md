@@ -2205,6 +2205,7 @@
 
 ## others 
 
+- [labmlai/inspectus](https://github.com/labmlai/inspectus) - LLM Analytics
 - [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
 - [nktice/AMD-AI](https://github.com/nktice/AMD-AI) - AMD (Radeon GPU) ROCm based setup for popular AI tools on Ubuntu 22.04 / 23.04 / 23.10 / 24.04
 - [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
