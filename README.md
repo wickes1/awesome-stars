@@ -338,7 +338,7 @@
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 - [elastic/beats](https://github.com/elastic/beats) - :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash
 - [swaggo/swag](https://github.com/swaggo/swag) - Automatically generate RESTful API documentation with Swagger 2.0 for Go.
-- [twmb/franz-go](https://github.com/twmb/franz-go) - franz-go contains a feature complete, pure Go library for interacting with Kafka from 0.8.0 through 3.6+. Producing, consuming, transacting, administrating, etc.
+- [twmb/franz-go](https://github.com/twmb/franz-go) - franz-go contains a feature complete, pure Go library for interacting with Kafka from 0.8.0 through 3.7+. Producing, consuming, transacting, administrating, etc.
 - [KubeOperator/KubeOperator](https://github.com/KubeOperator/KubeOperator) - KubeOperator 是一个开源的轻量级 Kubernetes 发行版，专注于帮助企业规划、部署和运营生产级别的 K8s 集群。
 - [darjun/go-daily-lib](https://github.com/darjun/go-daily-lib) - Go 每日一库
 - [why444216978/gin-api](https://github.com/why444216978/gin-api) - Go 微服务框架，Router 基于 Gin，同时支持 gRPC 和 HTTP，封装各种常用组件，开箱即用，专注业务。
