@@ -1803,7 +1803,7 @@
 - [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 - [betterlockscreen/betterlockscreen](https://github.com/betterlockscreen/betterlockscreen) - 🍀 sweet looking lockscreen for linux system
-- [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11
+- [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11 with animation support
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 - [Crylia/crylia-theme](https://github.com/Crylia/crylia-theme) - A theme for AwesomeWM
