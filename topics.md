@@ -759,7 +759,7 @@
 - [smallnest/gen](https://github.com/smallnest/gen) - Converts a database into gorm structs and RESTful api
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [volatiletech/sqlboiler](https://github.com/volatiletech/sqlboiler) - Generate a Go ORM tailored to your database schema.
-- [taosdata/TDengine](https://github.com/taosdata/TDengine) - TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps.
+- [taosdata/TDengine](https://github.com/taosdata/TDengine) - High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios
 - [dunwu/db-tutorial](https://github.com/dunwu/db-tutorial) - 📚 db-tutorial 是一个数据库教程。
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - The platform for building AI from enterprise data
@@ -933,7 +933,7 @@
 - [orzih/mkdocs-with-pdf](https://github.com/orzih/mkdocs-with-pdf) - Generate a single PDF file from MkDocs repository.
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [gethyas/doks](https://github.com/gethyas/doks) - Everything you need to build a stellar documentation website. Fast, accessible, and easy to use.
+- [thuliteio/doks](https://github.com/thuliteio/doks) - Everything you need to build a stellar documentation website. Fast, accessible, and easy to use.
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 - [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) - 中国程序员容易发音错误的单词
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -979,7 +979,6 @@
 ## ember 
 
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
-- [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is the industry standard workshop for building, documenting, and testing UI components in isolation
 
 ## english 
 
@@ -1563,7 +1562,7 @@
 - [timescale/timescaledb](https://github.com/timescale/timescaledb) - An open-source time-series SQL database optimized for fast ingest and complex queries.  Packaged as a PostgreSQL extension.
 - [istSOS/istsos2](https://github.com/istSOS/istsos2) - Easily manage your sensor network and distribute your data in a standard way
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
-- [taosdata/TDengine](https://github.com/taosdata/TDengine) - TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps.
+- [taosdata/TDengine](https://github.com/taosdata/TDengine) - High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard) - Open-source IoT Platform - Device management, data collection, processing and visualization.
 
@@ -2024,7 +2023,7 @@
 - [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [monitoror/monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
-- [taosdata/TDengine](https://github.com/taosdata/TDengine) - TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps.
+- [taosdata/TDengine](https://github.com/taosdata/TDengine) - High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios
 - [TwiN/gatus](https://github.com/TwiN/gatus) - ⛑ Automated developer-oriented status page
 - [confluentinc/examples](https://github.com/confluentinc/examples) - Apache Kafka and Confluent Platform examples and demos
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
@@ -2161,7 +2160,7 @@
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
-- [gethyas/doks](https://github.com/gethyas/doks) - Everything you need to build a stellar documentation website. Fast, accessible, and easy to use.
+- [thuliteio/doks](https://github.com/thuliteio/doks) - Everything you need to build a stellar documentation website. Fast, accessible, and easy to use.
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
 
@@ -2445,7 +2444,7 @@
 - [camptocamp/devops-stack](https://github.com/camptocamp/devops-stack) - 🌊 An all-in-one Kubernetes ☸ stack using Argo CD 🐙 and Terraform as base components
 - [pawl/awesome-etl](https://github.com/pawl/awesome-etl) - A curated list of awesome ETL frameworks, libraries, and software.
 - [meetecho/janus-gateway](https://github.com/meetecho/janus-gateway) - Janus WebRTC Server
-- [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
+- [iffybug/reverse-interview-zh](https://github.com/iffybug/reverse-interview-zh) - 技术面试最后反问面试官的话
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [reprise99/Sentinel-Queries](https://github.com/reprise99/Sentinel-Queries) - Collection of KQL queries
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
@@ -2907,7 +2906,7 @@
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
-- [infinyon/fluvio](https://github.com/infinyon/fluvio) - Lean and mean distributed stream processing system written in rust and web assembly.
+- [infinyon/fluvio](https://github.com/infinyon/fluvio) - Lean and mean distributed stream processing system written in rust and web assembly. Alternative to Kafka + Flink in one.
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command
 - [veeso/termscp](https://github.com/veeso/termscp) - 🖥  A feature rich terminal UI file transfer and explorer with support for SCP/SFTP/FTP/S3/SMB
 - [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
@@ -3027,7 +3026,7 @@
 - [OpenFunction/OpenFunction](https://github.com/OpenFunction/OpenFunction) - Cloud Native Function-as-a-Service Platform (CNCF Sandbox Project)
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
 - [cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification
-- [infinyon/fluvio](https://github.com/infinyon/fluvio) - Lean and mean distributed stream processing system written in rust and web assembly.
+- [infinyon/fluvio](https://github.com/infinyon/fluvio) - Lean and mean distributed stream processing system written in rust and web assembly. Alternative to Kafka + Flink in one.
 - [direktiv/direktiv](https://github.com/direktiv/direktiv) - Serverless Container Orchestration
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.
@@ -3089,7 +3088,7 @@
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [apache/doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database.
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
-- [taosdata/TDengine](https://github.com/taosdata/TDengine) - TDengine is an open source, high-performance, cloud native time-series database optimized for Internet of Things (IoT), Connected Cars, Industrial IoT and DevOps.
+- [taosdata/TDengine](https://github.com/taosdata/TDengine) - High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL
 - [dunwu/db-tutorial](https://github.com/dunwu/db-tutorial) - 📚 db-tutorial 是一个数据库教程。
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
