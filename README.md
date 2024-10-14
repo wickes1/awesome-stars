@@ -764,7 +764,7 @@
 - [facelessuser/mkdocs_pymdownx_material_extras](https://github.com/facelessuser/mkdocs_pymdownx_material_extras) - Custom alterations based on Mkdocs-Material
 - [trehn/termdown](https://github.com/trehn/termdown) - Countdown timer and stopwatch in your terminal
 - [python-visualization/folium](https://github.com/python-visualization/folium) - Python Data. Leaflet.js Maps.
-- [explodinggradients/ragas](https://github.com/explodinggradients/ragas) - Evaluation framework for your Retrieval Augmented Generation (RAG) pipelines
+- [explodinggradients/ragas](https://github.com/explodinggradients/ragas) - Evaluation library for your LLM Applications
 - [eyurtsev/kor](https://github.com/eyurtsev/kor) - LLM(😽)
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
