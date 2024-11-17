@@ -1072,6 +1072,7 @@
 
 ## TypeScript 
 
+- [haydenbleasel/next-forge](https://github.com/haydenbleasel/next-forge) - Production-grade Turborepo template for Next.js apps.
 - [origin-space/originui](https://github.com/origin-space/originui) - 
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
 - [IanVS/prettier-plugin-sort-imports](https://github.com/IanVS/prettier-plugin-sort-imports) - An opinionated but flexible prettier plugin to sort import statements
