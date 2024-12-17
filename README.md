@@ -578,7 +578,7 @@
 
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [lablabs/ansible-role-rke2](https://github.com/lablabs/ansible-role-rke2) - Ansible Role to install RKE2 Kubernetes.
-- [ironicbadger/infra](https://github.com/ironicbadger/infra) - 99.8% less leaked credentials
+- [ironicbadger/infra](https://github.com/ironicbadger/infra) - 99.7% less leaked credentials
 
 ## Jupyter Notebook 
 
