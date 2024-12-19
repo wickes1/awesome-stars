@@ -65,6 +65,7 @@
 
 ## C 
 
+- [troglobit/inadyn](https://github.com/troglobit/inadyn) - In-a-Dyn is a dynamic DNS client with multiple SSL/TLS library support
 - [gobbledegook/creevey](https://github.com/gobbledegook/creevey) - Phoenix Slides
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - [Maato/volumeicon](https://github.com/Maato/volumeicon) - Volume Icon aims to be a lightweight volume control that sits in your systray.
@@ -230,7 +231,7 @@
 - [caarlos0/env](https://github.com/caarlos0/env) - A simple, zero-dependencies library to parse environment variables into structs
 - [infracost/infracost](https://github.com/infracost/infracost) - Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!
 - [opencost/opencost](https://github.com/opencost/opencost) - Cost monitoring for Kubernetes workloads and cloud costs
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Release engineering, simplified
 - [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
 - [grafana/phlare](https://github.com/grafana/phlare) - 🔥 horizontally-scalable, highly-available, multi-tenant continuous profiling aggregation system
 - [zalando/postgres-operator](https://github.com/zalando/postgres-operator) - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
