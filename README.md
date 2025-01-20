@@ -652,7 +652,7 @@
 ## Others 
 
 - [ginobefun/BestBlogs](https://github.com/ginobefun/BestBlogs) - bestblogs.dev - 汇集顶级编程、人工智能、产品、科技文章，大语言模型摘要评分辅助阅读，探索编程和技术未来
-- [jeinlee1991/chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark) - 中文大模型能力评测榜单：目前已囊括139个大模型，覆盖chatgpt、gpt-4o、谷歌gemini、Claude3.5、百度文心一言、千问、百川、讯飞星火、商汤senseChat、minimax等商用模型， 以及deepseek-v3、qwen2.5、llama3.1、glm4、书生internLM2.5等开源大模型。不仅提供能力评分排行榜，也提供所有模型的原始输出结果！
+- [jeinlee1991/chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark) - 中文大模型能力评测榜单：目前已囊括153个大模型，覆盖chatgpt、gpt-4o、谷歌gemini、Claude3.5、百度文心一言、千问、百川、讯飞星火、商汤senseChat、minimax等商用模型， 以及deepseek-v3、qwen2.5、llama3.3、phi-4、glm4、书生internLM2.5等开源大模型。不仅提供能力评分排行榜，也提供所有模型的原始输出结果！
 - [birobirobiro/awesome-shadcn-ui](https://github.com/birobirobiro/awesome-shadcn-ui) - A curated list of awesome things related to shadcn/ui.
 - [wickes1/llm-codechallenge](https://github.com/wickes1/llm-codechallenge) - 
 - [nktice/AMD-AI](https://github.com/nktice/AMD-AI) - AMD (Radeon GPU) ROCm based setup for popular AI tools on Ubuntu 24.04.1
@@ -1094,6 +1094,7 @@
 
 ## TypeScript 
 
+- [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [DIYgod/RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) - 🧡 Browser extension that simplifies finding and subscribing RSS and RSSHub
