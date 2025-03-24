@@ -651,6 +651,7 @@
 
 ## Others 
 
+- [NeuroTechX/awesome-bci](https://github.com/NeuroTechX/awesome-bci) - Curated Collection of BCI resources
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [ginobefun/BestBlogs](https://github.com/ginobefun/BestBlogs) - bestblogs.dev - 汇集顶级编程、人工智能、产品、科技文章，大语言模型摘要评分辅助阅读，探索编程和技术未来
 - [jeinlee1991/chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark) - 目前已囊括203个大模型，覆盖chatgpt、gpt-4o、o3-mini、谷歌gemini、Claude3.5、智谱GLM-Zero、文心一言、qwen-max、百川、讯飞星火、商汤senseChat、minimax等商用模型， 以及DeepSeek-R1、qwq-32b、deepseek-v3、qwen2.5、llama3.3、phi-4、glm4、gemma3、mistral、书生inter
