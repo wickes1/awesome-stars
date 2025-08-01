@@ -755,7 +755,7 @@
 
 - [chflame163/ComfyUI_LayerStyle](https://github.com/chflame163/ComfyUI_LayerStyle) - A set of nodes for ComfyUI that can composite layer and mask to achieve Photoshop like functionality.
 - [ostris/ai-toolkit](https://github.com/ostris/ai-toolkit) - The ultimate training toolkit for finetuning diffusion models
-- [robertvoy/ComfyUI-Distributed](https://github.com/robertvoy/ComfyUI-Distributed) - ComfyUI extension that enables multi-GPU processing locally and remotely.
+- [robertvoy/ComfyUI-Distributed](https://github.com/robertvoy/ComfyUI-Distributed) - ComfyUI extension that enables multi-GPU processing locally, remotely and in the cloud
 - [kijai/ComfyUI-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper) - 
 - [heshengtao/comfyui_LLM_party](https://github.com/heshengtao/comfyui_LLM_party) - LLM Agent Framework in ComfyUI includes MCP sever, Omost,GPT-sovits, ChatTTS,GOT-OCR2.0, and FLUX prompt nodes,access to Feishu,discord,and adapts to all llms with similar openai / aisuite interfaces,
 - [kijai/ComfyUI-KJNodes](https://github.com/kijai/ComfyUI-KJNodes) - Various custom nodes for ComfyUI
