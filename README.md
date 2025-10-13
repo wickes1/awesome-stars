@@ -534,7 +534,6 @@
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [xenorio/YTShareAntiTrack](https://github.com/xenorio/YTShareAntiTrack) - YouTube userscript to remove tracking parameters from share URLs
 - [zeon-studio/hugoplate](https://github.com/zeon-studio/hugoplate) - Hugoplate is a free starter template built with Hugo and Tailwind CSS v4.0 that will save you hours of work.
-- [OpenDroneMap/WebODM](https://github.com/OpenDroneMap/WebODM) - User-friendly, commercial-grade software for processing aerial imagery. ✈️
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [Kong/insomnia-mockbin](https://github.com/Kong/insomnia-mockbin) - Insomnia Mockbin is the underlying backend for the API mocks capability of Insomnia. It is built and used by Kong, the author of the open-source Kong Gateway.
 - [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) - Control and manage Android devices from your browser.
@@ -656,7 +655,7 @@
 
 ## Others 
 
-- [wshobson/agents](https://github.com/wshobson/agents) - A collection of production-ready subagents for Claude Code
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
 - [jlevy/og-equity-compensation](https://github.com/jlevy/og-equity-compensation) - Stock options, RSUs, taxes — read the latest edition: www.holloway.com/ec
 - [hzpt-inet-club/english-note](https://github.com/hzpt-inet-club/english-note) - 从0开始学习英语语法
 - [NeuroTechX/awesome-bci](https://github.com/NeuroTechX/awesome-bci) - Curated Collection of BCI resources
@@ -833,6 +832,7 @@
 - [python-visualization/folium](https://github.com/python-visualization/folium) - Python Data. Leaflet.js Maps.
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
 - [explodinggradients/ragas](https://github.com/explodinggradients/ragas) - Supercharge Your LLM Application Evaluations 🚀
+- [OpenDroneMap/WebODM](https://github.com/OpenDroneMap/WebODM) - User-friendly, commercial-grade software for processing aerial imagery. ✈️
 - [eyurtsev/kor](https://github.com/eyurtsev/kor) - LLM(😽)
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 - [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
@@ -1051,7 +1051,7 @@
 - [systemd/zram-generator](https://github.com/systemd/zram-generator) - Systemd unit generator for zram devices
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
 - [veloren/veloren](https://github.com/veloren/veloren) - [mirror of https://gitlab.com/veloren/veloren] An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitL
-- [databendlabs/databend](https://github.com/databendlabs/databend) - 𝗔𝗜-𝗡𝗮𝘁𝗶𝘃𝗲 𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗲. Open-source Snowflake alternative. Proven at petabyte scale with enterprise performance. Built for multimodal analytics. https://databend.com
+- [databendlabs/databend](https://github.com/databendlabs/databend) - 𝗔𝗜-𝗡𝗮𝘁𝗶𝘃𝗲 𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗲. Blazing analytics, fast search, geo insights, vector AI. Built for multimodal analytics, Open-source Snowflake alternative. https://databend.com
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust.
@@ -1180,7 +1180,7 @@
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
 - [cuixueshe/earthworm](https://github.com/cuixueshe/earthworm) - Learning English through the method of constructing sentences with conjunctions
 - [vercel/next-forge](https://github.com/vercel/next-forge) - Production-grade Turborepo template for Next.js apps.
-- [origin-space/originui](https://github.com/origin-space/originui) - Origin UI is an extensive collection of copy-and-paste components for quickly building application UIs. Powered by Tailwind CSS and React.
+- [cosscom/coss](https://github.com/cosscom/coss) - coss.com is the new holding company of cal.com, the pioneers of open source scheduling infrastructure and cal.com continues to be the 'google search' of our alphabet.
 - [steven-tey/precedent](https://github.com/steven-tey/precedent) - An opinionated collection of components, hooks, and utilities for your Next.js project.
 - [IanVS/prettier-plugin-sort-imports](https://github.com/IanVS/prettier-plugin-sort-imports) - An opinionated but flexible prettier plugin to sort import statements
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI, MCP, and shadcn/ui
@@ -1238,7 +1238,7 @@
 - [DouyinFE/semi-design](https://github.com/DouyinFE/semi-design) - 🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 3000+ Design Tokens, easy to build your design system. Make Semi Design to Any Design.  🧑🏻‍💻 Design to Code i
 - [Kanaries/Rath](https://github.com/Kanaries/Rath) - Next generation of automated data exploratory analysis and visualization platform.
 - [jd-opensource/drip-table](https://github.com/jd-opensource/drip-table) - A tiny and powerful enterprise-class solution for building lowcode tables. 轻量、强大的企业级表格可视化搭建解决方案。
-- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets management, PKI, and SSH access.
+- [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for secrets, certificates, and privileged access management.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
 - [TexteaInc/json-viewer](https://github.com/TexteaInc/json-viewer) - not only a JSON viewer
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
