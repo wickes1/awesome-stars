@@ -65,7 +65,7 @@
 
 ## C 
 
-- [duixcom/Duix.Avatar](https://github.com/duixcom/Duix.Avatar) - 
+- [duixcom/Duix-Avatar](https://github.com/duixcom/Duix-Avatar) - 🚀 Truly open-source AI avatar(digital human) toolkit for offline video generation and digital human cloning.
 - [troglobit/inadyn](https://github.com/troglobit/inadyn) - In-a-Dyn is a dynamic DNS client with multiple SSL/TLS library support
 - [gobbledegook/creevey](https://github.com/gobbledegook/creevey) - Phoenix Slides
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
@@ -775,7 +775,6 @@
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [LonamiWebs/Telethon](https://github.com/LonamiWebs/Telethon) - Pure Python 3 MTProto API Telegram client library, for bots too!
-- [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - 💫 Ngrok FRP Alternative • ⚡ Fast • 🪶 Lightweight • 0️⃣ Dependency • 🔌 Pluggable • 😈 TLS interception • 🔒 DNS-over-HTTPS • 🔥 Poor Man's VPN • ⏪ Reverse & ⏩ Forward • 👮🏿 "Proxy Server" framework • 🌐 "We
 - [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 - [ROCm/bitsandbytes](https://github.com/ROCm/bitsandbytes) - 8-bit CUDA functions for PyTorch
@@ -1158,6 +1157,7 @@
 - [trykimu/videoeditor](https://github.com/trykimu/videoeditor) - Your Creative Copilot for Video Editing
 - [diffusionstudio/core](https://github.com/diffusionstudio/core) - The Video Creation Engine: Edit videos with code, featuring the fastest WebCodecs renderer for in-browser video processing.
 - [pagefaultgames/pokerogue](https://github.com/pagefaultgames/pokerogue) - A browser based Pokémon fangame heavily inspired by the roguelite genre.
+- [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [Logging-Stuff/RetroUI](https://github.com/Logging-Stuff/RetroUI) - A retro-styled UI library for modern web applications.
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [tailark/blocks](https://github.com/tailark/blocks) - Shadcn marketing blocks
