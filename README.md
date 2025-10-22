@@ -234,7 +234,7 @@
 - [google/cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers.
 - [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
 - [storj/storj](https://github.com/storj/storj) - Ongoing Storj v3 development. Decentralized cloud object storage that is affordable, easy to use, private, and secure.
-- [arl/statsviz](https://github.com/arl/statsviz) - 🚀 Visualise Go runtime metrics in real time
+- [arl/statsviz](https://github.com/arl/statsviz) - Visualise Go runtime metrics in real time
 - [ContainerSSH/ContainerSSH](https://github.com/ContainerSSH/ContainerSSH) - ContainerSSH: Launch containers on demand
 - [redpanda-data/connect](https://github.com/redpanda-data/connect) - Fancy stream processing made operationally mundane
 - [krakend/krakend-ce](https://github.com/krakend/krakend-ce) - KrakenD Community Edition: High-performance, stateless, declarative, API Gateway written in Go.
@@ -553,6 +553,7 @@
 - [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository
 - [aleixrodriala/wa-tunnel](https://github.com/aleixrodriala/wa-tunnel) - Tunneling Internet traffic over Whatsapp
+- [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
 - [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
@@ -562,6 +563,7 @@
 - [ShaneIsrael/fireshare](https://github.com/ShaneIsrael/fireshare) - Self host your media and share with unique links
 - [joolfe/postman-to-openapi](https://github.com/joolfe/postman-to-openapi) - 🛸 Convert postman collection to OpenAPI
 - [zuiidea/antd-admin](https://github.com/zuiidea/antd-admin) - An excellent front-end solution for enterprise applications built upon Ant Design and UmiJS
+- [direktiv/direktiv](https://github.com/direktiv/direktiv) - Serverless Container Orchestration
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [Hubro/clipface](https://github.com/Hubro/clipface) - Self-hosted web application for sharing video clips
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
@@ -1247,7 +1249,6 @@
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
-- [Anarios/return-youtube-dislike](https://github.com/Anarios/return-youtube-dislike) - Chrome extension to return youtube dislikes
 - [Baizey/UniversalAutomaticCurrencyConverter](https://github.com/Baizey/UniversalAutomaticCurrencyConverter) - A currency converter for chrome and firefox which supports a large amount of currencies and can automatically convert websites
 - [vantage-sh/ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Amazon EC2 instance comparison site
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
@@ -1261,7 +1262,6 @@
 - [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
 - [vercel/serve](https://github.com/vercel/serve) - Static file serving and directory listing
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [direktiv/direktiv](https://github.com/direktiv/direktiv) - Serverless Container Orchestration
 - [prymitive/karma](https://github.com/prymitive/karma) - Alert dashboard for Prometheus Alertmanager
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [hedgedoc/hedgedoc](https://github.com/hedgedoc/hedgedoc) - HedgeDoc - Ideas grow better together
