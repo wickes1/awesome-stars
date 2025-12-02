@@ -114,6 +114,8 @@
 
 ## C++ 
 
+- [opencardev/openauto](https://github.com/opencardev/openauto) - AndroidAuto headunit emulator
+- [rime/weasel](https://github.com/rime/weasel) - 【小狼毫】Rime for Windows
 - [niedev/RTranslator](https://github.com/niedev/RTranslator) - Open source real-time translation app for Android that runs locally
 - [oguzhaninan/Stacer](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring - https://oguzhaninan.github.io/Stacer-Web
 - [pit-ray/win-vind](https://github.com/pit-ray/win-vind) - You can operate Windows with key bindings like Vim.
@@ -464,11 +466,11 @@
 - [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Windows.
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
 - [billthefarmer/tuner](https://github.com/billthefarmer/tuner) - Android accordion tuner
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [mageddo/dns-proxy-server](https://github.com/mageddo/dns-proxy-server) - Solve your DNS hosts from your docker containers, then from your local configuration, then from internet
 - [tencentmusic/supersonic](https://github.com/tencentmusic/supersonic) - SuperSonic is the next-generation AI+BI platform that unifies Chat BI (powered by LLM) and Headless BI (powered by semantic layer) paradigms.
 - [unitycatalog/unitycatalog](https://github.com/unitycatalog/unitycatalog) - Open, Multi-modal Catalog for Data & AI
-- [debezium/debezium](https://github.com/debezium/debezium) - Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.
+- [debezium/debezium](https://github.com/debezium/debezium) - Change data capture for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues.
 - [apache/seatunnel](https://github.com/apache/seatunnel) - SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool.
 - [zalando/nakadi](https://github.com/zalando/nakadi) - A distributed event bus that implements a RESTful API abstraction on top of Kafka-like queues
 - [wolpi/prim-ftpd](https://github.com/wolpi/prim-ftpd) - FTP server app for android
@@ -627,6 +629,7 @@
 
 ## Lua 
 
+- [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 - [ssnhd/rime](https://github.com/ssnhd/rime) - Rime Squirrel 鼠须管配置文件（朙月拼音、小鹤双拼、自然码双拼）
 - [pablonoya/awesomewm-configuration](https://github.com/pablonoya/awesomewm-configuration) - My personal AwesomeWM configuration
 - [andOrlando/rubato](https://github.com/andOrlando/rubato) - Create smooth animations with a slope curve for awesomeWM
@@ -671,7 +674,7 @@
 - [NeuroTechX/awesome-bci](https://github.com/NeuroTechX/awesome-bci) - Curated Collection of BCI resources
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [ginobefun/BestBlogs](https://github.com/ginobefun/BestBlogs) - bestblogs.dev - 汇集顶级编程、人工智能、产品、科技文章，大语言模型摘要评分辅助阅读，探索编程和技术未来
-- [jeinlee1991/chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark) - ReLE评测：中文AI大模型能力评测（持续更新）：目前已囊括303个大模型，覆盖chatgpt、gpt-5、o4-mini、谷歌gemini-2.5、Claude4.5、智谱GLM-Z1、文心一言、qwen3-max、百川、讯飞星火、商汤senseChat、minimax等商用模型， 以及kimi-k2、ernie4.5、minimax-M1、DeepSeek-R1-0528、deepseek-v
+- [jeinlee1991/chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark) - ReLE评测：中文AI大模型能力评测（持续更新）：目前已囊括318个大模型，覆盖chatgpt、gpt-5.1、o4-mini、谷歌gemini-3-pro、Claude-4.5、文心ERNIE-X1.1、ERNIE-5.0-Thinking、qwen3-max、百川、讯飞星火、商汤senseChat等商用模型， 以及kimi-k2、ernie4.5、minimax-M2、deepseek-v3.
 - [wickes1/llm-codechallenge](https://github.com/wickes1/llm-codechallenge) - 
 - [nktice/AMD-AI](https://github.com/nktice/AMD-AI) - AMD (Radeon GPU) ROCm based setup for popular AI tools on Ubuntu 24.04.1
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
@@ -1117,6 +1120,7 @@
 
 ## Shell 
 
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Dig deep like a mole to optimize you Mac. 像鼹鼠一样深入挖掘来优化你的 Mac
 - [aniketkarne/CCAutoRenew](https://github.com/aniketkarne/CCAutoRenew) - Never Miss a Claude Code Renewal Window Again!
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [pgsty/pigsty](https://github.com/pgsty/pigsty) - Free RDS for PostgreSQL — Pigsty
