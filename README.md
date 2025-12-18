@@ -401,7 +401,7 @@
 - [postgres-ai/database-lab-engine](https://github.com/postgres-ai/database-lab-engine) - DBLab enables 🖖 database branching and ⚡️ thin cloning for any Postgres database and empowers DB testing in CI/CD. This optimizes database-related costs while improving time-to-market and software qua
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - API traffic analyzer for Kubernetes, providing deep packet inspection with complete API and Kubernetes contexts, retaining cluster-wide L4 traffic (PCAP), and using minimal production compute resource
 - [ruoshan/autoportforward](https://github.com/ruoshan/autoportforward) - Bidirectional port-forwarding for docker, podman and kubernetes
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
 - [devspace-sh/devspace](https://github.com/devspace-sh/devspace) - DevSpace - The Fastest Developer Tool for Kubernetes ⚡ Automate your deployment workflow with DevSpace and develop software directly inside Kubernetes.
@@ -506,7 +506,7 @@
 - [metersphere/metersphere](https://github.com/metersphere/metersphere) - 🔥 MeterSphere 是新一代的开源持续测试工具，内置 AI 助手，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。
 - [tchiotludo/akhq](https://github.com/tchiotludo/akhq) - Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more...
 - [dunwu/db-tutorial](https://github.com/dunwu/db-tutorial) - 📚 后端程序员应该掌握的主流数据库知识
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything - from scripts to data, infra, AI, and business - as code, with UI and AI Copilot. Simple. Fast. Scalable.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
 - [SonarSource/sonarqube](https://github.com/SonarSource/sonarqube) - Continuous Inspection
 - [linkedin/kafka-monitor](https://github.com/linkedin/kafka-monitor) - Xinfra Monitor monitors the availability of Kafka clusters by producing synthetic workloads using end-to-end pipelines to obtain derived vital statistics - E2E latency, service produce/consume availab
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
@@ -672,7 +672,7 @@
 - [NeuroTechX/awesome-bci](https://github.com/NeuroTechX/awesome-bci) - Curated Collection of BCI resources
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [ginobefun/BestBlogs](https://github.com/ginobefun/BestBlogs) - bestblogs.dev - 汇集顶级编程、人工智能、产品、科技文章，大语言模型摘要评分辅助阅读，探索编程和技术未来
-- [jeinlee1991/chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark) - ReLE评测：中文AI大模型能力评测（持续更新）：目前已囊括318个大模型，覆盖chatgpt、gpt-5.1、o4-mini、谷歌gemini-3-pro、Claude-4.5、文心ERNIE-X1.1、ERNIE-5.0-Thinking、qwen3-max、百川、讯飞星火、商汤senseChat等商用模型， 以及kimi-k2、ernie4.5、minimax-M2、deepseek-v3.
+- [jeinlee1991/chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark) - ReLE评测：中文AI大模型能力评测（持续更新）：目前已囊括335个大模型，覆盖chatgpt、gpt-5.2、o4-mini、谷歌gemini-3-pro、Claude-4.5、文心ERNIE-X1.1、ERNIE-5.0-Thinking、qwen3-max、百川、讯飞星火、商汤senseChat等商用模型， 以及kimi-k2、ernie4.5、minimax-M2、deepseek-v3.
 - [wickes1/llm-codechallenge](https://github.com/wickes1/llm-codechallenge) - 
 - [nktice/AMD-AI](https://github.com/nktice/AMD-AI) - AMD (Radeon GPU) ROCm based setup for popular AI tools on Ubuntu 24.04.1
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
@@ -953,7 +953,7 @@
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [anyant/rssant](https://github.com/anyant/rssant) - 蚁阅 - 让 RSS 更好用，轻松订阅你喜欢的博客和资讯
 - [laixintao/iredis](https://github.com/laixintao/iredis) - Interactive Redis: A Terminal Client for Redis with AutoCompletion and Syntax Highlighting.
-- [xonsh/xonsh](https://github.com/xonsh/xonsh) - Python-powered shell. Full-featured and cross-platform.
+- [xonsh/xonsh](https://github.com/xonsh/xonsh) - 🐚 Python-powered shell. Full-featured and cross-platform.
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [fastavro/fastavro](https://github.com/fastavro/fastavro) - Fast Avro for Python
 - [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
@@ -1074,8 +1074,8 @@
 - [systemd/zram-generator](https://github.com/systemd/zram-generator) - Systemd unit generator for zram devices
 - [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) - Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.
 - [veloren/veloren](https://github.com/veloren/veloren) - [mirror of https://gitlab.com/veloren/veloren] An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitL
-- [databendlabs/databend](https://github.com/databendlabs/databend) - 𝗔𝗜-𝗡𝗮𝘁𝗶𝘃𝗲 𝗗𝗮𝘁𝗮 𝗪𝗮𝗿𝗲𝗵𝗼𝘂𝘀𝗲. Blazing analytics, fast search, geo insights, vector AI. Built for multimodal analytics, Open-source Snowflake alternative. https://databend.com
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command. 一键打包网页生成轻量桌面应用
+- [databendlabs/databend](https://github.com/databendlabs/databend) - One Warehouse for  Analytics, Search, AI. Snowflake + Elasticsearch + Vector DB — rebuilt from scratch. Unified architecture on your S3.
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust.
 - [Xithrius/twitch-tui](https://github.com/Xithrius/twitch-tui) - Twitch chat in the terminal.
@@ -1119,7 +1119,7 @@
 
 ## Shell 
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Dig deep like a mole to optimize you Mac. 像鼹鼠一样深入挖掘来优化你的 Mac
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
 - [aniketkarne/CCAutoRenew](https://github.com/aniketkarne/CCAutoRenew) - Never Miss a Claude Code Renewal Window Again!
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [pgsty/pigsty](https://github.com/pgsty/pigsty) - FLOSS PostgreSQL RDS / DBaaS
@@ -1225,6 +1225,7 @@
 - [usesend/useSend](https://github.com/usesend/useSend) - Open source alternative to Resend, Sendgrid, Postmark etc.
 - [hasanharman/form-builder](https://github.com/hasanharman/form-builder) - A dynamic form-building tool that allows users to create, customize, and validate forms seamlessly within web applications.
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
+- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [firecow/gitlab-ci-local](https://github.com/firecow/gitlab-ci-local) - Tired of pushing to test your .gitlab-ci.yml?
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
@@ -1356,7 +1357,6 @@
 
 ## Vue 
 
-- [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [Yacht-sh/Yacht](https://github.com/Yacht-sh/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 - [KlausSchaefers/quant-ux](https://github.com/KlausSchaefers/quant-ux) - Quant-UX - Prototype, Test and Learn
