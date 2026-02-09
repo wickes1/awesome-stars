@@ -1054,7 +1054,7 @@
 
 - [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [nobodywho-ooo/nobodywho](https://github.com/nobodywho-ooo/nobodywho) - NobodyWho is an inference engine that lets you run LLMs locally and efficiently on any device.
-- [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Multiplayer at the speed of light
+- [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
 - [vxfemboy/wipedicks](https://github.com/vxfemboy/wipedicks) - Wipe files and drives securely with random ASCII dicks
 - [paradedb/paradedb](https://github.com/paradedb/paradedb) - Simple, Elastic-quality search for Postgres
 - [gorules/zen](https://github.com/gorules/zen) - Open-source Business Rules Engine for your Rust, NodeJS, Python, Go, Java, Kotlin (JVM), Kotlin (Android) and Swift (iOS) applications.
