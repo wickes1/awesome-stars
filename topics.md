@@ -503,7 +503,7 @@
 - [DataExpert-io/data-engineer-handbook](https://github.com/DataExpert-io/data-engineer-handbook) - This is a repo with links to everything you'd ever want to learn about data engineering
 - [hyprland-community/awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) - Awesome list for Hyprland [maintainer=@yavko]
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [humhub/humhub](https://github.com/humhub/humhub) - HumHub is an Open Source Enterprise Social Network. Easy to install, intuitive to use and extendable with countless freely available modules.
 - [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing on linux
 - [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
@@ -531,7 +531,7 @@
 - [zemmsoares/awesome-rices](https://github.com/zemmsoares/awesome-rices) - A curated list of awesome unix user rices!
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [fosslife/awesome-ricing](https://github.com/fosslife/awesome-ricing) - A curated list of awesome tools and technology to help you out with ricing on linux
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [dastergon/awesome-sre](https://github.com/dastergon/awesome-sre) - A curated list of Site Reliability and Production Engineering resources.
@@ -2844,7 +2844,7 @@
 - [goldmansachs/gs-quant](https://github.com/goldmansachs/gs-quant) - Python toolkit for quantitative finance
 - [Maato/volumeicon](https://github.com/Maato/volumeicon) - Volume Icon aims to be a lightweight volume control that sits in your systray.
 - [nwg-piotr/nwg-look](https://github.com/nwg-piotr/nwg-look) - GTK3 settings editor adapted to work in the wlroots environment
-- [Duckonaut/split-monitor-workspaces](https://github.com/Duckonaut/split-monitor-workspaces) - A small Hyprland plugin to provide awesome-like workspace behavior
+- [zjeffer/split-monitor-workspaces](https://github.com/zjeffer/split-monitor-workspaces) - A small Hyprland plugin to provide awesome-like workspace behavior
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
 - [TypeDuck-HK/TypeDuck-Web](https://github.com/TypeDuck-HK/TypeDuck-Web) - TypeDuck: Cantonese for everyone at your fingertips
 - [pijulius/picom](https://github.com/pijulius/picom) - A lightweight compositor for X11
