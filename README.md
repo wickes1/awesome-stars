@@ -124,7 +124,7 @@
 - [zjeffer/split-monitor-workspaces](https://github.com/zjeffer/split-monitor-workspaces) - A small Hyprland plugin to provide awesome-like workspace behavior
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
-- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK stack
+- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch | Drop-in replacement for E in the ELK stack
 - [jstkdng/ueberzugpp](https://github.com/jstkdng/ueberzugpp) - Drop in replacement for ueberzug written in C++
 - [brndnmtthws/conky](https://github.com/brndnmtthws/conky) - Light-weight system monitor for X, Wayland, and other things, too
 - [ITachiLab/hotkey-detective](https://github.com/ITachiLab/hotkey-detective) - A small program for investigating stolen key combinations under Windows 7 and later.
@@ -917,7 +917,6 @@
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Python data model generator (Pydantic, dataclasses, TypedDict, msgspec) from OpenAPI, JSON Schema, GraphQL, and raw data (JSON/YAML/CSV).
 - [martinblech/xmltodict](https://github.com/martinblech/xmltodict) - Python module that makes working with XML feel like you are working with JSON
-- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [authlib/authlib](https://github.com/authlib/authlib) - The ultimate Python library in building OAuth, OpenID Connect clients and servers. JWS, JWE, JWK, JWA, JWT included.
 - [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Feature rich application Launcher for Linux
 - [nbQA-dev/nbQA](https://github.com/nbQA-dev/nbQA) - Run ruff, isort, pyupgrade, mypy, pylint, flake8, and more on Jupyter Notebooks
@@ -1116,6 +1115,7 @@
 
 ## Shell 
 
+- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 48 AI agents, 36 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
 - [aniketkarne/CCAutoRenew](https://github.com/aniketkarne/CCAutoRenew) - Never Miss a Claude Code Renewal Window Again!
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
@@ -1174,6 +1174,7 @@
 
 ## TypeScript 
 
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp) - Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)
 - [mixn/carbon-now-cli](https://github.com/mixn/carbon-now-cli) - 🎨 Beautiful images of your code — from right inside your terminal.
 - [idosal/git-mcp](https://github.com/idosal/git-mcp) - Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP server for any GitHub project
@@ -1285,6 +1286,7 @@
 - [timc1/kbar](https://github.com/timc1/kbar) - fast, portable, and extensible cmd+k interface for your site
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 - [streetwriters/notesnook](https://github.com/streetwriters/notesnook) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [Baizey/UniversalAutomaticCurrencyConverter](https://github.com/Baizey/UniversalAutomaticCurrencyConverter) - A currency converter for chrome and firefox which supports a large amount of currencies and can automatically convert websites
 - [vantage-sh/ec2instances.info](https://github.com/vantage-sh/ec2instances.info) - Amazon EC2 instance comparison site
 - [open-telemetry/opentelemetry-demo](https://github.com/open-telemetry/opentelemetry-demo) - This repository contains the OpenTelemetry Astronomy Shop, a microservice-based distributed system intended to illustrate the implementation of OpenTelemetry in a near real-world environment.
