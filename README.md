@@ -889,7 +889,7 @@
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [camel-ai/camel](https://github.com/camel-ai/camel) - 🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org
-- [Data-Centric-AI-Community/ydata-profiling](https://github.com/Data-Centric-AI-Community/ydata-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
+- [Data-Centric-AI-Community/data-profiling](https://github.com/Data-Centric-AI-Community/data-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
 - [wee-slack/wee-slack](https://github.com/wee-slack/wee-slack) - A WeeChat script for Slack.com. Supports threads and reactions, synchronizes read markers, provides typing notification, etc..
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [gicait/geoserver-rest](https://github.com/gicait/geoserver-rest) - Python library for management of geospatial data in GeoServer.
