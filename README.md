@@ -103,7 +103,7 @@
 
 - [Seanba/SuperTiled2Unity](https://github.com/Seanba/SuperTiled2Unity) - Imports Tiled files to Unity. Better than regular Tiled2Unity.
 - [inkle/ink](https://github.com/inkle/ink) - inkle's open source scripting language for writing interactive narrative.
-- [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp) - Unity MCP acts as a bridge, allowing AI assistants (like Claude, Cursor) to interact directly with your Unity Editor via a local MCP (Model Context Protocol) Client. Give your LLM tools to manage asse
+- [CoplayDev/unity-mcp](https://github.com/CoplayDev/unity-mcp) - Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.
 - [focus-creative-games/luban](https://github.com/focus-creative-games/luban) - luban是一个强大、易用、优雅、稳定的游戏配置解决方案。luban is a powerful, easy-to-use, elegant and stable game configuration solution.
 - [YarnSpinnerTool/YarnSpinner](https://github.com/YarnSpinnerTool/YarnSpinner) - The core compiler and engine-agnostic components for Yarn Spinner, the friendly dialogue tool.
 - [starik222/BooruDatasetTagManager](https://github.com/starik222/BooruDatasetTagManager) - 
