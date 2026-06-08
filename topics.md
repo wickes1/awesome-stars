@@ -1200,7 +1200,7 @@
 - [storj/storj](https://github.com/storj/storj) - Ongoing Storj v3 development. Decentralized cloud object storage that is affordable, easy to use, private, and secure.
 - [fluvio-community/fluvio](https://github.com/fluvio-community/fluvio) - 🦀 event stream processing for developers to collect and transform data in motion to power responsive data intensive applications.
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework for AI agents
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for services and agents
 
 ## django 
 
@@ -1605,7 +1605,7 @@
 - [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework for AI agents
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for services and agents
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [uber-go/guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
@@ -1717,7 +1717,7 @@
 - [crossoverJie/ptg](https://github.com/crossoverJie/ptg) - 💥Performance testing tool (Go), It is also a GUI gRPC client.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework for AI agents
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for services and agents
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
@@ -2568,7 +2568,7 @@
 - [nats-io/nats.go](https://github.com/nats-io/nats.go) - Golang client for NATS, the cloud native messaging system.
 - [apolloconfig/apollo](https://github.com/apolloconfig/apollo) - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework for AI agents
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for services and agents
 - [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
