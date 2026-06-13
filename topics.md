@@ -998,7 +998,7 @@
 ## data-science 
 
 - [python-visualization/folium](https://github.com/python-visualization/folium) - Python Data. Leaflet.js Maps.
-- [mljar/mercury](https://github.com/mljar/mercury) - Create data rich web apps directly from Python notebooks
+- [mljar/mercury](https://github.com/mljar/mercury) - The fastest way to turn a Jupyter notebook into a beautiful, shareable web app — no callbacks, no frontend, no rewrite.
 - [Data-Centric-AI-Community/fg-data-profiling](https://github.com/Data-Centric-AI-Community/fg-data-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
@@ -1019,7 +1019,7 @@
 
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
 - [python-visualization/folium](https://github.com/python-visualization/folium) - Python Data. Leaflet.js Maps.
-- [mljar/mercury](https://github.com/mljar/mercury) - Create data rich web apps directly from Python notebooks
+- [mljar/mercury](https://github.com/mljar/mercury) - The fastest way to turn a Jupyter notebook into a beautiful, shareable web app — no callbacks, no frontend, no rewrite.
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [Kanaries/Rath](https://github.com/Kanaries/Rath) - Next generation of automated data exploratory analysis and visualization platform.
 - [jeecgboot/jimureport](https://github.com/jeecgboot/jimureport) - 免费的AI可视化报表。一句话描述需求，AI 自动生成报表与数据大屏；同时提供类 Excel 拖拽设计器，兼容 30 余种数据源，轻松应对各类复杂报表场景——帆软、Tableau 的高性价比开源替代。
@@ -1384,7 +1384,7 @@
 - [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
 - [smithyhq/sqladmin](https://github.com/smithyhq/sqladmin) - SQLAlchemy Admin for FastAPI and Starlette
 - [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
-- [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Python data model generator (Pydantic, dataclasses, TypedDict, msgspec) from OpenAPI, JSON Schema, GraphQL, and raw data (JSON/YAML/CSV).
+- [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Generate Pydantic v2 models, dataclasses, TypedDict, and msgspec.Struct from OpenAPI, JSON Schema, GraphQL, Avro, Protobuf, and raw JSON/YAML/CSV.
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
 - [talkpython/web-applications-with-fastapi-course](https://github.com/talkpython/web-applications-with-fastapi-course) - Demo code and other handouts for students of our FastAPI Web Apps course.
 - [fastapi-users/fastapi-users](https://github.com/fastapi-users/fastapi-users) - Ready-to-use and customizable users management for FastAPI
@@ -1781,7 +1781,7 @@
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 - [graphql-python/graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
-- [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Python data model generator (Pydantic, dataclasses, TypedDict, msgspec) from OpenAPI, JSON Schema, GraphQL, and raw data (JSON/YAML/CSV).
+- [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Generate Pydantic v2 models, dataclasses, TypedDict, and msgspec.Struct from OpenAPI, JSON Schema, GraphQL, Avro, Protobuf, and raw JSON/YAML/CSV.
 - [krakend/krakend-ce](https://github.com/krakend/krakend-ce) - KrakenD Community Edition: High-performance, stateless, declarative, API Gateway written in Go.
 - [graphile/crystal](https://github.com/graphile/crystal) - 🔮 Graphile's Crystal Monorepo; home to Grafast, PostGraphile, pg-introspection, pg-sql2 and much more!
 - [99designs/gqlgen](https://github.com/99designs/gqlgen) - go generate based graphql server library
@@ -2159,7 +2159,7 @@
 
 ## jupyter-notebook 
 
-- [mljar/mercury](https://github.com/mljar/mercury) - Create data rich web apps directly from Python notebooks
+- [mljar/mercury](https://github.com/mljar/mercury) - The fastest way to turn a Jupyter notebook into a beautiful, shareable web app — no callbacks, no frontend, no rewrite.
 - [Data-Centric-AI-Community/fg-data-profiling](https://github.com/Data-Centric-AI-Community/fg-data-profiling) - 1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames.
 - [nbQA-dev/nbQA](https://github.com/nbQA-dev/nbQA) - Run ruff, isort, pyupgrade, mypy, pylint, flake8, and more on Jupyter Notebooks
 
@@ -2934,7 +2934,7 @@
 - [m-damien/VisualStoryWriting](https://github.com/m-damien/VisualStoryWriting) - 🧙‍♂️ Writing by manipulating visual representations of stories
 - [Renovamen/oh-my-cv](https://github.com/Renovamen/oh-my-cv) - An in-browser, local-first Markdown resume builder.
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
-- [ccusage/ccusage](https://github.com/ccusage/ccusage) - Analyze coding (agent) CLI token usage and costs from local data.
+- [ccusage/ccusage](https://github.com/ccusage/ccusage) - npx ccusage
 - [ssnhd/rime](https://github.com/ssnhd/rime) - Rime Squirrel 鼠须管配置文件（朙月拼音、小鹤双拼、自然码双拼）
 - [rime/squirrel](https://github.com/rime/squirrel) - 【鼠鬚管】Rime for macOS
 - [chflame163/ComfyUI_LayerStyle](https://github.com/chflame163/ComfyUI_LayerStyle) - A set of nodes for ComfyUI that can composite layer and mask to achieve Photoshop like functionality.
@@ -3397,7 +3397,7 @@
 - [da-rth/yasb](https://github.com/da-rth/yasb) - A highly configurable cross-platform (Windows) status bar written in Python.
 - [shmilylty/OneForAll](https://github.com/shmilylty/OneForAll) - OneForAll是一款功能强大的子域收集工具
 - [smithyhq/sqladmin](https://github.com/smithyhq/sqladmin) - SQLAlchemy Admin for FastAPI and Starlette
-- [mljar/mercury](https://github.com/mljar/mercury) - Create data rich web apps directly from Python notebooks
+- [mljar/mercury](https://github.com/mljar/mercury) - The fastest way to turn a Jupyter notebook into a beautiful, shareable web app — no callbacks, no frontend, no rewrite.
 - [frappe/erpnext](https://github.com/frappe/erpnext) - Free and Open Source Enterprise Resource Planning (ERP)
 - [simonw/datasette](https://github.com/simonw/datasette) - An open source multi-tool for exploring and publishing data
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
@@ -3420,7 +3420,7 @@
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [reloadware/reloadium](https://github.com/reloadware/reloadium) - Hot Reloading and Profiling for Python
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
-- [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Python data model generator (Pydantic, dataclasses, TypedDict, msgspec) from OpenAPI, JSON Schema, GraphQL, and raw data (JSON/YAML/CSV).
+- [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Generate Pydantic v2 models, dataclasses, TypedDict, and msgspec.Struct from OpenAPI, JSON Schema, GraphQL, Avro, Protobuf, and raw JSON/YAML/CSV.
 - [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Feature rich application Launcher for Linux
 - [Yacht-sh/Yacht](https://github.com/Yacht-sh/Yacht) - A web interface for managing docker containers with an emphasis on templating to provide 1 click deployments. Think of it like a decentralized app store for servers that anyone can make packages for.
 - [nbQA-dev/nbQA](https://github.com/nbQA-dev/nbQA) - Run ruff, isort, pyupgrade, mypy, pylint, flake8, and more on Jupyter Notebooks
