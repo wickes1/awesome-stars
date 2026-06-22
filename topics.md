@@ -787,6 +787,7 @@
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
+- [nao1215/gup](https://github.com/nao1215/gup) - Fast manager for Go-installed binaries in $GOBIN: update, export/import, and migrate toolsets across machines
 - [pystardust/ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
@@ -1137,6 +1138,7 @@
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
+- [nao1215/gup](https://github.com/nao1215/gup) - Fast manager for Go-installed binaries in $GOBIN: update, export/import, and migrate toolsets across machines
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [GoogleContainerTools/kaniko](https://github.com/GoogleContainerTools/kaniko) - Build Container Images In Kubernetes
@@ -1314,6 +1316,7 @@
 - [zemmsoares/awesome-rices](https://github.com/zemmsoares/awesome-rices) - A curated list of awesome unix user rices!
 - [Crylia/crylia-theme](https://github.com/Crylia/crylia-theme) - A theme for AwesomeWM
 - [editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) - Vim Bootstrap is a generator that provides a simple method of generating a configuration for vim / neovim.
+- [nao1215/gup](https://github.com/nao1215/gup) - Fast manager for Go-installed binaries in $GOBIN: update, export/import, and migrate toolsets across machines
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [Jguer/dotfiles](https://github.com/Jguer/dotfiles) - My archlinux tiling (sway/awesomewm) configs
 
@@ -1616,7 +1619,7 @@
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [uber-go/guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
-- [nao1215/gup](https://github.com/nao1215/gup) - Fast parallel updater and manager for binaries installed with `go install`
+- [nao1215/gup](https://github.com/nao1215/gup) - Fast manager for Go-installed binaries in $GOBIN: update, export/import, and migrate toolsets across machines
 - [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
 - [urfave/cli](https://github.com/urfave/cli) - A declarative, simple, fast, and fun package for building command line tools in Go
 - [sheepla/pingu](https://github.com/sheepla/pingu) - 🐧ping command but with pingu
@@ -1730,7 +1733,7 @@
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [uber-go/guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
-- [nao1215/gup](https://github.com/nao1215/gup) - Fast parallel updater and manager for binaries installed with `go install`
+- [nao1215/gup](https://github.com/nao1215/gup) - Fast manager for Go-installed binaries in $GOBIN: update, export/import, and migrate toolsets across machines
 - [kerberos-io/agent](https://github.com/kerberos-io/agent) - An open and scalable video surveillance system for anyone making this world a better and more peaceful place.
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
 - [emirpasic/gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more
@@ -1912,7 +1915,6 @@
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
-- [nao1215/gup](https://github.com/nao1215/gup) - Fast parallel updater and manager for binaries installed with `go install`
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
