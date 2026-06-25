@@ -379,7 +379,7 @@
 - [apache/hertzbeat](https://github.com/apache/hertzbeat) - An AI-powered next-generation open source real-time observability system.
 - [apache/doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [Lightning-AI/pytorch-lightning](https://github.com/Lightning-AI/pytorch-lightning) - Pretrain, finetune ANY AI model of ANY size on 1 or 10,000+ GPUs with zero code changes.
 - [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，内置mcp辅助服务，内置skills管理，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
@@ -401,7 +401,7 @@
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [Zipstack/unstract](https://github.com/Zipstack/unstract) - LLM-Driven Extraction of Unstructured Data — Built for API Deployments & ETL Pipeline Workflows
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
 
@@ -1208,7 +1208,7 @@
 - [storj/storj](https://github.com/storj/storj) - Ongoing Storj v3 development. Decentralized cloud object storage that is affordable, easy to use, private, and secure.
 - [fluvio-community/fluvio](https://github.com/fluvio-community/fluvio) - 🦀 event stream processing for developers to collect and transform data in motion to power responsive data intensive applications.
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
 
 ## django 
 
@@ -1614,7 +1614,7 @@
 - [ThreeDotsLabs/wild-workouts-go-ddd-example](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) - Go DDD example application. Complete project to show how to apply DDD, Clean Architecture, and CQRS by practical refactoring.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [uber-go/guide](https://github.com/uber-go/guide) - The Uber Go Style Guide.
@@ -1726,7 +1726,7 @@
 - [crossoverJie/ptg](https://github.com/crossoverJie/ptg) - 💥Performance testing tool (Go), It is also a GUI gRPC client.
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
@@ -2561,7 +2561,8 @@
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
 - [flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin) - 🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，企业级业务AI+开发解决方案，内置mcp辅助服务，内置skills管理，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [mindsdb/minds](https://github.com/mindsdb/minds) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
@@ -2581,7 +2582,7 @@
 - [nats-io/nats.go](https://github.com/nats-io/nats.go) - Golang client for NATS, the cloud native messaging system.
 - [apolloconfig/apollo](https://github.com/apolloconfig/apollo) - Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
-- [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
+- [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
 - [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity.
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
