@@ -522,7 +522,7 @@
 - [linkedin/kafka-monitor](https://github.com/linkedin/kafka-monitor) - Xinfra Monitor monitors the availability of Kafka clusters by producing synthetic workloads using end-to-end pipelines to obtain derived vital statistics - E2E latency, service produce/consume availab
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [Apicurio/apicurio-registry](https://github.com/Apicurio/apicurio-registry) - An API/Schema registry - stores APIs and Schemas.
-- [theonedev/onedev](https://github.com/theonedev/onedev) - Git Server with CI/CD, Kanban, and Packages. Seamless integration. Unparalleled experience.
+- [theonedev/onedev](https://github.com/theonedev/onedev) - The Unified and Autonomous Development Platform
 - [provectus/kafka-ui](https://github.com/provectus/kafka-ui) - Open-Source Web UI for Apache Kafka Management
 - [confluentinc/examples](https://github.com/confluentinc/examples) - Apache Kafka, Apache Flink and Confluent Platform examples and demos
 - [strimzi/strimzi-kafka-operator](https://github.com/strimzi/strimzi-kafka-operator) - Apache Kafka® running on Kubernetes
@@ -605,7 +605,7 @@
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
 - [Schneegans/Burn-My-Windows](https://github.com/Schneegans/Burn-My-Windows) - 🔥 Disintegrate your windows with style.
 - [deepch/RTSPtoWebRTC](https://github.com/deepch/RTSPtoWebRTC) - RTSP to WebRTC use Pion WebRTC
-- [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(linux, mac, win)
+- [electerm/electerm](https://github.com/electerm/electerm) - 📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice client(Linux, Mac, Windows, Android)
 
 ## Jinja 
 
@@ -822,7 +822,7 @@
 - [gaogaotiantian/coredumpy](https://github.com/gaogaotiantian/coredumpy) - coredumpy saves your crash site for post-mortem debugging
 - [jdepoix/youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless b
 - [Ikaros-521/AI-Vtuber](https://github.com/Ikaros-521/AI-Vtuber) - AI Vtuber是一个由 【ChatterBot/ChatGPT/claude/langchain/chatglm/text-gen-webui/闻达/千问/kimi/ollama】 驱动的虚拟主播【Live2D/UE/xuniren】，可以在 【Bilibili/抖音/快手/微信视频号/拼多多/斗鱼/YouTube/twitch/TikTok】 直播中与观众实时互动 或 直接在本地进行聊天。它
-- [TeamWiseFlow/xiaobei](https://github.com/TeamWiseFlow/xiaobei) - 为OPC/中小微企业量身打造的自媒体获客AI Agent
+- [TeamWiseFlow/xiaobei](https://github.com/TeamWiseFlow/xiaobei) - 为OPC/中小微企业量身打造的自媒体获客智能体
 - [sipherxyz/comfyui-art-venture](https://github.com/sipherxyz/comfyui-art-venture) - 
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
 - [wagtail/wagtail](https://github.com/wagtail/wagtail) - A Django content management system focused on flexibility and user experience
@@ -833,7 +833,7 @@
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [zai-org/CogVideo](https://github.com/zai-org/CogVideo) - text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
 - [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - SOTA Open Source TTS
 - [MadcowD/ell](https://github.com/MadcowD/ell) - A language model programming library.
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
@@ -1046,6 +1046,7 @@
 - [Pycord-Development/pycord](https://github.com/Pycord-Development/pycord) - Pycord is a modern, easy to use, feature-rich, and async ready API wrapper for Discord written in Python
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 - [netbox-community/netbox](https://github.com/netbox-community/netbox) - The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
@@ -1231,7 +1232,7 @@
 - [tailark/blocks](https://github.com/tailark/blocks) - Shadcn marketing blocks
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [Vencord/Vesktop](https://github.com/Vencord/Vesktop) - Vesktop is a custom Discord App aiming to give you better performance and improve linux support
-- [teableio/teable](https://github.com/teableio/teable) - ✨ The Next Gen Airtable Alternative: No-Code Postgres
+- [teableio/teable](https://github.com/teableio/teable) - ✨ AI Spreadsheet for Business
 - [buxuku/SmartSub](https://github.com/buxuku/SmartSub) - 本地优先的一站式桌面字幕工具，内置 6 种 ASR 引擎与全平台 GPU 加速及 17+ 翻译服务商，覆盖音视频转写、翻译、校对、字幕烧录封装全流程，跨 Windows/macOS/Linux 运行
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate agentic social media scheduling tool 🤖
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
@@ -1384,7 +1385,6 @@
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 
 ## Vim Script 
 
