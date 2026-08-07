@@ -184,6 +184,7 @@
 
 ## Go 
 
+- [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) - Local development against a remote Kubernetes or OpenShift cluster
 - [umputun/remark42](https://github.com/umputun/remark42) - comment engine
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model 
 - [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring with historical data, docker stats, and alerts.
@@ -981,7 +982,7 @@
 - [fastavro/fastavro](https://github.com/fastavro/fastavro) - Fast Avro for Python
 - [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
 - [jina-ai/serve](https://github.com/jina-ai/serve) - ☁️ Build multimodal AI applications with cloud-native stack
-- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
+- [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, macOS and Windows operating systems.
 - [city-super/BungeeNeRF](https://github.com/city-super/BungeeNeRF) - [ECCV22] BungeeNeRF: Progressive Neural Radiance Field for Extreme Multi-scale Scene Rendering
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [MatrixTM/MHDDoS](https://github.com/MatrixTM/MHDDoS) - Best DDoS Attack Script  Python3, (Cyber / DDos) Attack With 56 Methods
