@@ -402,7 +402,7 @@
 - [datastack-net/dockerized](https://github.com/datastack-net/dockerized) - Run popular commandline tools within docker
 - [photoview/photoview](https://github.com/photoview/photoview) - Photo gallery for self-hosted personal servers
 - [quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests) - Learn Go with test-driven development
-- [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Build AI agents and web apps — with a single binary.
+- [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ All your agents and workspaces in one place, on every device you own. Track tasks on a board, accessible from desktop, mobile, browser, or API. Self-hosted.
 - [raystack/stencil](https://github.com/raystack/stencil) - Stencil is a schema registry that provides schema management and validation dynamically, efficiently, and reliably to ensure data compatibility across applications.
 - [postgres-ai/database-lab-engine](https://github.com/postgres-ai/database-lab-engine) - DBLab enables 🖖 database branching and ⚡️ thin cloning for any Postgres database and empowers DB testing in CI/CD. This optimizes database-related costs while improving time-to-market and software qua
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
@@ -1008,7 +1008,7 @@
 - [jendrikseipp/vulture](https://github.com/jendrikseipp/vulture) - Find dead Python code
 - [talkpython/web-applications-with-fastapi-course](https://github.com/talkpython/web-applications-with-fastapi-course) - Demo code and other handouts for students of our FastAPI Web Apps course.
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - The definitive list that answers "I want to do X in Python, which tool should I use?"
 - [arrow-py/arrow](https://github.com/arrow-py/arrow) - 🏹 Better dates & times for Python
 - [ajenti/ajenti](https://github.com/ajenti/ajenti) - Ajenti Core and stock plugins
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Context Platform for your Data and AI Stack
@@ -1152,7 +1152,7 @@
 ## Shell 
 
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac.
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
 - [pgsty/pigsty](https://github.com/pgsty/pigsty) - Enterprise-Grade OSS PostgreSQL Distribution with HA, PITR, IaC, Monitor, 12 kernel forks and 575 PG extensions. Best-of-breed products integrated as a platform. Self-host Postgres like a Pro!
 - [wickes1/homelab-dev](https://github.com/wickes1/homelab-dev) - Homelab infrastructure — Kubernetes, Terraform, ArgoCD, GitOps
