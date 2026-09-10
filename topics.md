@@ -3014,7 +3014,6 @@
 - [rime/weasel](https://github.com/rime/weasel) - 【小狼毫】Rime for Windows
 - [zhongweili/nanobanana-mcp-server](https://github.com/zhongweili/nanobanana-mcp-server) - AI image generation MCP server powered by Google Gemini, with smart model selection and 4K output
 - [AnswerDotAI/llms-txt](https://github.com/AnswerDotAI/llms-txt) - The /llms.txt file, helping language models use your website
-- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 - [alienator88/Pearcleaner](https://github.com/alienator88/Pearcleaner) - A free, source-available and fair-code licensed mac app cleaner
 - [Done-0/fuck-u-code](https://github.com/Done-0/fuck-u-code) - Legacy-Mess Detector – assess the “legacy-mess level” of your code and output a beautiful report
 - [m-damien/VisualStoryWriting](https://github.com/m-damien/VisualStoryWriting) - 🧙‍♂️ Writing by manipulating visual representations of stories
@@ -3089,7 +3088,7 @@
 - [mkdocs/catalog](https://github.com/mkdocs/catalog) - :trophy: :books: A list of awesome MkDocs projects and plugins.
 - [facelessuser/mkdocs_pymdownx_material_extras](https://github.com/facelessuser/mkdocs_pymdownx_material_extras) - Custom alterations based on Mkdocs-Material
 - [kubernetes/website](https://github.com/kubernetes/website) - Kubernetes website and documentation repo:
-- [google/docsy](https://github.com/google/docsy) - Hugo theme for open source documentation
+- [docsydev/docsy](https://github.com/docsydev/docsy) - Hugo theme for open source documentation
 - [gokarna-theme/gokarna-hugo](https://github.com/gokarna-theme/gokarna-hugo) - A minimal opinionated theme for Hugo
 - [astriaai/headshots-starter](https://github.com/astriaai/headshots-starter) - 
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
