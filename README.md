@@ -42,7 +42,6 @@
 - [PowerShell](#powershell)
 - [Python](#python)
 - [QML](#qml)
-- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [Shell](#shell)
@@ -555,7 +554,7 @@
 - [colinwilson/lotusdocs](https://github.com/colinwilson/lotusdocs) - 📖 A free, lightweight, modern documentation theme for Hugo
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [xenorio/YTShareAntiTrack](https://github.com/xenorio/YTShareAntiTrack) - YouTube userscript to remove tracking parameters from share URLs
-- [google/docsy](https://github.com/google/docsy) - Hugo theme for open source documentation
+- [docsydev/docsy](https://github.com/docsydev/docsy) - Hugo theme for open source documentation
 - [zeon-studio/hugoplate](https://github.com/zeon-studio/hugoplate) - Hugoplate is a free starter template built with Hugo and Tailwind CSS v4.0 that will save you hours of work.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [Kong/insomnia-mockbin](https://github.com/Kong/insomnia-mockbin) - Insomnia Mockbin is the underlying backend for the API mocks capability of Insomnia. It is built and used by Kong, the author of the open-source Kong Gateway.
@@ -1059,10 +1058,6 @@
 ## QML 
 
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles
-
-## Roff 
-
-- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 
 ## Ruby 
 
